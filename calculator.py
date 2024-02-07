@@ -1,4 +1,5 @@
 import math
+
 def add(x, y):
     return x + y
 
@@ -13,7 +14,7 @@ def divide(x, y):
         return x / y
     else:
         return "Error: Division by zero"
-
+# Maybe not the next 3, depends on age
 def power(x, y):
     return x ** y 
 
